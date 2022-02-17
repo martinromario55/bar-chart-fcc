@@ -1,0 +1,48 @@
+body {
+  background-color: #eee;
+}
+
+header {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#header-p {
+  font-style: italic;
+  color: navy;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+svg {
+  background-color: aqua;
+}
+
+#title {
+  font-size: 2em;
+  font-weight: bolder;
+  fill: indigo;
+}
+.bar {
+  fill: navy;
+}
+
+.bar:hover {
+  fill: aquamarine;
+}
+
+#tooltip {
+  font-size: 2em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+}
