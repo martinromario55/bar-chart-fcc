@@ -1,2 +1,2 @@
 # bar-chart-fcc
-![bar-char-fcc-page-layout]("https://prnt.sc/26xysbg")
+<img src="https://prnt.sc/26xysbg" alt="bar-chart-page-layout" width="200"/>
